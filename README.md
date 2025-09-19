@@ -88,6 +88,9 @@ pip install plotly
 ```
 
 ### Running the Analysis
+
+🔗 **[View the Complete Analysis Notebook](notebooks/customer_segmentation_analysis.ipynb)**
+
 1. Open the Jupyter notebook:
    ```bash
    jupyter notebook notebooks/customer_segmentation_analysis.ipynb
